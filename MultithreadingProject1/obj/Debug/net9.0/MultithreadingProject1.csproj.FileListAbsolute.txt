@@ -1,0 +1,14 @@
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/bin/Debug/net9.0/MultithreadingProject1
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/bin/Debug/net9.0/MultithreadingProject1.deps.json
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/bin/Debug/net9.0/MultithreadingProject1.runtimeconfig.json
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/bin/Debug/net9.0/MultithreadingProject1.dll
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/bin/Debug/net9.0/MultithreadingProject1.pdb
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.GeneratedMSBuildEditorConfig.editorconfig
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.AssemblyInfoInputs.cache
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.AssemblyInfo.cs
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.csproj.CoreCompileInputs.cache
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.dll
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/refint/MultithreadingProject1.dll
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.pdb
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.genruntimeconfig.cache
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/ref/MultithreadingProject1.dll
