@@ -68,13 +68,15 @@ namespace MultithreadingProject1
             while(mutex>0){
                 {
                     if (timeoutDetection>120){//if a thread is held for 2 minutes then it will be cancelled to prevent deadlock
+                        Console.WriteLine("Timeout detected");
                         Console.WriteLine("Thread stalled too long, cancelling withdraw of $"+withdrawAmount);
+                        
                         return;
                     }
-                    Console.WriteLine("Timeout detected");
-                    break;
+                    timeoutDetection++;
+                   Thread.Sleep(1000);//holds a withdraw thread until all deposists AND withdrawls are complete to not overdraw account
                 }
-                Thread.Sleep(1000);//holds a withdraw thread until all deposists AND withdrawls are complete to not overdraw account
+                
             }
                 if(withdrawAmount>balance)
                 {

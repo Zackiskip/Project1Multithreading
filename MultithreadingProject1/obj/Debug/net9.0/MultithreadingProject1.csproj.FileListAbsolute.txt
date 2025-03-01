@@ -12,3 +12,4 @@
 /home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.pdb
 /home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.genruntimeconfig.cache
 /home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/ref/MultithreadingProject1.dll
+/home/Zackiskip/repositories/Project1Multithreading/Project1Multithreading/MultithreadingProject1/obj/Debug/net9.0/MultithreadingProject1.sourcelink.json
